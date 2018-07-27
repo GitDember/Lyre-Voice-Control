@@ -1,0 +1,6 @@
+#JSGF V1.0;
+
+
+grammar hello;
+
+public <greet> = (back | light | red | green | blue | white | up | down | left | right);
